@@ -1,0 +1,77 @@
+# Report
+
+### **Project Background**
+
+Following the appointment of a new director at Lynila Pharmacy, a strategic review was initiated to evaluate the company’s financial performance over the past five years (2020–2024). The aim is to provide a solid foundation for developing informed strategies and performance benchmarks for the fiscal year **2025**.
+
+This report delivers a breakdown of key financial metrics—**revenue, expenses, and net income**—as well as a comparative assessment of **quarterly trends** and **cost structures** that directly influence the company’s profitability.
+
+---
+
+### **Executive Summary**
+
+Since 2020, Lynila Pharmacy reported a **total revenue of $3.8 billion**, against **total expenses of $539 million**, resulting in a **net income of $3.2 billion**. The company maintained a strong profitability margin, with a particularly lean expense profile dominated by salaries and inventory costs.
+
+Quarterly performance was generally stable, although a notable dip in net income occurred in **Q3**, attributed to a decrease in revenue and only a marginal drop in expenses. Expense allocation indicates a potential opportunity for optimization, especially in salary management.
+
+---
+
+### **Chart-by-Chart Insights For The Pharmacy For Five Years**
+
+### 1. **Total Revenue ($3.8B)**
+
+- The revenue chart shows modest fluctuations across the four beginning months for each quarter (January, April, July, October).
+- The most significant peak appears in **April**, followed by a slight dip in **July**, and then a mild recovery in **October**.
+- Revenue stability indicates solid market demand, but the variations suggest potential seasonality or operational inefficiencies.
+
+### 2. **Total Expenses ($539M)**
+
+- **Expense breakdown**:
+    - **Salaries (66.2%)** form the largest cost component.
+    - **Inventory (24.3%)** is the second highest.
+    - Rent, utilities, and miscellaneous costs make up the remaining 9.5%.
+- Salaries disproportionately dominate the cost structure, highlighting a critical area for potential efficiency reviews.
+
+### 3. **Total Net Income ($3.2B)**
+
+- Mirrors the revenue trend, confirming that net income closely tracks topline performance due to relatively stable expenses.
+- Minor fluctuations in net income reflect changes in revenue more than shifts in cost, underscoring effective cost control.
+
+### 4. **Revenue vs Expenses Over Time (Quarterly)**
+
+- Revenue peaked in **Q2**, then dipped slightly in Q3
+- Expenses declined steadily in Q3, before increasing again slightly in Q4.
+- The **largest gap between revenue and expenses** (profitability) appears in **Q1**, with margins narrowing in subsequent quarters.
+
+### 5. **Net Income Over Time**
+
+- Net income follows a similar pattern as revenue.
+- A **notable increase** in Q2 (from $793M to $892M) aligns with revenue contraction, despite lower expenses.
+- There’s a drop in Q3 ($763M) with slight recovery in Q4 ($775M) suggests a rebound effort was partially successful.
+
+### 6. Sales Categories
+
+- **Prescription Sales**: $3.57B (94%)
+- **OTC Sales**: $22.8M (6%)
+- **Insight**: Prescription sales overwhelmingly dominate the revenue structure. This underscores Lynila Pharmacy’s strong positioning in the clinical or medical prescription space. The minimal share of OTC sales may present an opportunity for expansion.
+
+---
+
+### **Recommendations**
+
+Based on the analysis of the financial data, the following recommendations are proposed to strengthen Lynila Pharmacy’s performance in FY2025 and support improved decision-making and profitability for the company:
+
+1. **Control Salary Costs**
+    - Salaries make up **66.2% of expenses**. Conduct a workforce audit to identify efficiency gaps and consider automation to reduce labor costs.
+2. **Address Q3 Revenue Dip**
+    - Investigate seasonal patterns or operational issues in Q3. Use targeted promotions in Q2 to boost Q3 sales and adjust staffing/inventory accordingly.
+3. **Grow OTC Sales**
+    - OTC products contribute just **6% of revenue**. Boost visibility through marketing, bundled offers, and strategic partnerships.
+4. **Reinvest Q1–Q2 Profits**
+    - Leverage strong margins in early quarters to fund marketing and customer retention strategies year-round.
+5. **Maintain Cost Discipline**
+    - Preserve tight expense control, especially in **inventory (24.3%)**, by optimizing procurement and monitoring quarterly spending.
+
+---
+
+[2024 report](https://www.notion.so/2024-report-2044799bb26780cb8cb1cec02bd7f710?pvs=21)
