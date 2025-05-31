@@ -1,6 +1,6 @@
-# Report
+# Lynila Pharmacy Financial Performance Report
 
-### **Project Background**
+## **Project Background**
 
 Following the appointment of a new director at Lynila Pharmacy, a strategic review was initiated to evaluate the company’s financial performance over the past five years (2020–2024). The aim is to provide a solid foundation for developing informed strategies and performance benchmarks for the fiscal year **2025**.
 
@@ -8,7 +8,7 @@ This report delivers a breakdown of key financial metrics—**revenue, expenses,
 
 ---
 
-### **Executive Summary**
+## **Executive Summary**
 
 Since 2020, Lynila Pharmacy reported a **total revenue of $3.8 billion**, against **total expenses of $539 million**, resulting in a **net income of $3.2 billion**. The company maintained a strong profitability margin, with a particularly lean expense profile dominated by salaries and inventory costs.
 
@@ -16,15 +16,15 @@ Quarterly performance was generally stable, although a notable dip in net income
 
 ---
 
-### **Chart-by-Chart Insights For The Pharmacy For Five Years**
+## **Insights**
 
-### 1. **Total Revenue ($3.8B)**
+#### 1. **Total Revenue ($3.8B)**
 
 - The revenue chart shows modest fluctuations across the four beginning months for each quarter (January, April, July, October).
 - The most significant peak appears in **April**, followed by a slight dip in **July**, and then a mild recovery in **October**.
 - Revenue stability indicates solid market demand, but the variations suggest potential seasonality or operational inefficiencies.
 
-### 2. **Total Expenses ($539M)**
+#### 2. **Total Expenses ($539M)**
 
 - **Expense breakdown**:
     - **Salaries (66.2%)** form the largest cost component.
@@ -32,24 +32,24 @@ Quarterly performance was generally stable, although a notable dip in net income
     - Rent, utilities, and miscellaneous costs make up the remaining 9.5%.
 - Salaries disproportionately dominate the cost structure, highlighting a critical area for potential efficiency reviews.
 
-### 3. **Total Net Income ($3.2B)**
+#### 3. **Total Net Income ($3.2B)**
 
 - Mirrors the revenue trend, confirming that net income closely tracks topline performance due to relatively stable expenses.
 - Minor fluctuations in net income reflect changes in revenue more than shifts in cost, underscoring effective cost control.
 
-### 4. **Revenue vs Expenses Over Time (Quarterly)**
+#### 4. **Revenue vs Expenses Over Time (Quarterly)**
 
 - Revenue peaked in **Q2**, then dipped slightly in Q3
 - Expenses declined steadily in Q3, before increasing again slightly in Q4.
 - The **largest gap between revenue and expenses** (profitability) appears in **Q1**, with margins narrowing in subsequent quarters.
 
-### 5. **Net Income Over Time**
+#### 5. **Net Income Over Time**
 
 - Net income follows a similar pattern as revenue.
 - A **notable increase** in Q2 (from $793M to $892M) aligns with revenue contraction, despite lower expenses.
 - There’s a drop in Q3 ($763M) with slight recovery in Q4 ($775M) suggests a rebound effort was partially successful.
 
-### 6. Sales Categories
+#### 6. Sales Categories
 
 - **Prescription Sales**: $3.57B (94%)
 - **OTC Sales**: $22.8M (6%)
@@ -57,7 +57,7 @@ Quarterly performance was generally stable, although a notable dip in net income
 
 ---
 
-### **Recommendations**
+## **Recommendations**
 
 Based on the analysis of the financial data, the following recommendations are proposed to strengthen Lynila Pharmacy’s performance in FY2025 and support improved decision-making and profitability for the company:
 
@@ -74,4 +74,4 @@ Based on the analysis of the financial data, the following recommendations are p
 
 ---
 
-[2024 report](https://www.notion.so/2024-report-2044799bb26780cb8cb1cec02bd7f710?pvs=21)
+[2024 report](https://github.com/TiffanyNwanne/Lynila-Community-Pharmacy-Revenue-Analysis/blob/main/2024%20Report.md)
