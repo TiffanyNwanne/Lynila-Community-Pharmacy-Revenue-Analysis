@@ -10,6 +10,8 @@ This report delivers a breakdown of key financial metrics—**revenue, expenses,
 
 ## **Executive Summary**
 
+[![](https://github.com/TiffanyNwanne/Lynila-Community-Pharmacy-Revenue-Analysis/blob/main/images/total/Total%20Over%20The%20Years.png)](https://github.com/TiffanyNwanne/Lynila-Community-Pharmacy-Revenue-Analysis/blob/main/images/total/Total%20Over%20The%20Years.png)
+
 Since 2020, Lynila Pharmacy reported a **total revenue of $3.8 billion**, against **total expenses of $539 million**, resulting in a **net income of $3.2 billion**. The company maintained a strong profitability margin, with a particularly lean expense profile dominated by salaries and inventory costs.
 
 Quarterly performance was generally stable, although a notable dip in net income occurred in **Q3**, attributed to a decrease in revenue and only a marginal drop in expenses. Expense allocation indicates a potential opportunity for optimization, especially in salary management.
@@ -20,11 +22,15 @@ Quarterly performance was generally stable, although a notable dip in net income
 
 #### 1. **Total Revenue ($3.8B)**
 
+[![](https://github.com/TiffanyNwanne/Lynila-Community-Pharmacy-Revenue-Analysis/blob/main/images/total/1.png)](https://github.com/TiffanyNwanne/Lynila-Community-Pharmacy-Revenue-Analysis/blob/main/images/total/1.png)
+
 - The revenue chart shows modest fluctuations across the four beginning months for each quarter (January, April, July, October).
 - The most significant peak appears in **April**, followed by a slight dip in **July**, and then a mild recovery in **October**.
 - Revenue stability indicates solid market demand, but the variations suggest potential seasonality or operational inefficiencies.
 
 #### 2. **Total Expenses ($539M)**
+
+[![](https://github.com/TiffanyNwanne/Lynila-Community-Pharmacy-Revenue-Analysis/blob/main/images/total/2.png)](https://github.com/TiffanyNwanne/Lynila-Community-Pharmacy-Revenue-Analysis/blob/main/images/total/2.png)
 
 - **Expense breakdown**:
     - **Salaries (66.2%)** form the largest cost component.
@@ -34,10 +40,14 @@ Quarterly performance was generally stable, although a notable dip in net income
 
 #### 3. **Total Net Income ($3.2B)**
 
+[![](https://github.com/TiffanyNwanne/Lynila-Community-Pharmacy-Revenue-Analysis/blob/main/images/total/3.png)](https://github.com/TiffanyNwanne/Lynila-Community-Pharmacy-Revenue-Analysis/blob/main/images/total/3.png)
+
 - Mirrors the revenue trend, confirming that net income closely tracks topline performance due to relatively stable expenses.
 - Minor fluctuations in net income reflect changes in revenue more than shifts in cost, underscoring effective cost control.
 
 #### 4. **Revenue vs Expenses Over Time (Quarterly)**
+
+[![](https://github.com/TiffanyNwanne/Lynila-Community-Pharmacy-Revenue-Analysis/blob/main/images/total/4.png)](https://github.com/TiffanyNwanne/Lynila-Community-Pharmacy-Revenue-Analysis/blob/main/images/total/4.png)
 
 - Revenue peaked in **Q2**, then dipped slightly in Q3
 - Expenses declined steadily in Q3, before increasing again slightly in Q4.
@@ -45,11 +55,15 @@ Quarterly performance was generally stable, although a notable dip in net income
 
 #### 5. **Net Income Over Time**
 
+[![](https://github.com/TiffanyNwanne/Lynila-Community-Pharmacy-Revenue-Analysis/blob/main/images/total/5.png)](https://github.com/TiffanyNwanne/Lynila-Community-Pharmacy-Revenue-Analysis/blob/main/images/total/5.png)
+
 - Net income follows a similar pattern as revenue.
 - A **notable increase** in Q2 (from $793M to $892M) aligns with revenue contraction, despite lower expenses.
 - There’s a drop in Q3 ($763M) with slight recovery in Q4 ($775M) suggests a rebound effort was partially successful.
 
 #### 6. Sales Categories
+
+[![](https://github.com/TiffanyNwanne/Lynila-Community-Pharmacy-Revenue-Analysis/blob/main/images/total/6.png)](https://github.com/TiffanyNwanne/Lynila-Community-Pharmacy-Revenue-Analysis/blob/main/images/total/6.png)
 
 - **Prescription Sales**: $3.57B (94%)
 - **OTC Sales**: $22.8M (6%)
