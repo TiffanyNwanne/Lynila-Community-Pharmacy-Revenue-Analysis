@@ -88,4 +88,4 @@ Based on the analysis of the financial data, the following recommendations are p
 
 ---
 
-[2024 report](https://github.com/TiffanyNwanne/Lynila-Community-Pharmacy-Revenue-Analysis/blob/main/2024%20Report.md)
+[2024 Report](https://github.com/TiffanyNwanne/Lynila-Community-Pharmacy-Revenue-Analysis/blob/main/2024%20Report.md)
