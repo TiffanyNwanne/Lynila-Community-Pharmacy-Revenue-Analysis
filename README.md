@@ -19,6 +19,7 @@ Quarterly performance year after year was generally stable, although a notable r
 ---
 
 ## **Insights**
+The analysis was performed in [MySQL](https://github.com/TiffanyNwanne/Lynila-Community-Pharmacy-Revenue-Analysis/blob/main/Lynila%20Queries.sql) and visualised with [Tableau](https://public.tableau.com/app/profile/tiffany.nwanne/viz/FinancialSnapshotDashboard/TotalOverTheYears) and the insights are:
 
 #### 1. **Total Revenue ($3.8B)**
 
